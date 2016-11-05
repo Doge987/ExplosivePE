@@ -1,6 +1,6 @@
 # ExplosivePE
 
-0.16.1 IS NOT SUPPORTED YET!
+0.16.1 IS NOW SUPPORTED! MANY ISSUES PERSIST! SERVER WHITELISTED FOR MC:PE!
 
 Explosive PE is a upcoming website and server.
 Here we share files, and upload files to help us develop the server/website.
