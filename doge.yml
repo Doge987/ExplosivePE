@@ -1,8 +1,8 @@
 
-#Genisys Advanced Configuration File
+#Doge configuration profile.
 #Version of this file
 config:
- version: 21
+ version: 001
 level:
  #Set if weather is enabled (rain may cause lag to older devices)
  weather: true
